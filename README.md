@@ -48,7 +48,3 @@ Optionally add `OPENAI_API_KEY` to enable structured AI extraction. If no key is
 - Checkout signatures and raw webhook payloads are HMAC-verified server-side.
 - The audit trail exposes every decision and recovery state.
 - Merchant data is synthetic; this is a prototype, not a real marketplace.
-
-The `backend/` and video-processing folders are legacy experiments, not part of this demo. Do not include them when creating the public Buildathon repository.
-
-Read [architecture](docs/ARCHITECTURE.md), [decisions](docs/DECISIONS.md), and the [five-minute pitch](docs/PITCH.md).
